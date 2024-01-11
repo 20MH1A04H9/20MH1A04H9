@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISWANADH</h1>
 <h3 align="center">A passionate Cloud Engineer and Networking from India💙</h3>
-
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lal628q3nsv65lzlswup13flgiawvae9md3e8ii9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Frontend and backend**
