@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend and backend**
 
-- 👨‍💻 All of my projects are available at [NA](NA)
+- 👨‍💻 All of my projects are available at [Github.com](Github.com)
 
 - 💬 Ask me about **Cloud ,Networking, Python, C, Java, VHDL, MATLAB, DevOps**
 
