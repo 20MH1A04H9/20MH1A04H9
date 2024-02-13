@@ -35,5 +35,4 @@
 <p><a href="https://ko-fi.com/Buy Me a Coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
 
 ## Watch Snake eating My Github contributions
-![snake gif](https://github.com/20MH1A04H9/20MH1A04H9/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
