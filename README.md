@@ -34,5 +34,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Buy Me a Coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
 
-## Watch Snake eating My Github contributions
+## Watch Snake eating  Github contributions
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
