@@ -61,7 +61,8 @@ Operating Systems:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@viswanadh09)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tatavolusaiviswanadh) 
 
-  
-
+ 
 ## Watch Snake eating  Github contributions
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<h1 align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/saiviswanath064.png" alt="TryHackMe"> </h1>
