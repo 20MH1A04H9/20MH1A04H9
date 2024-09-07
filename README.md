@@ -14,7 +14,7 @@
 
 
 >  My name is Viswa, and I'm a very smart student of electronic and communication engineering (ECE). I'm also very interested in cybersecurity, cloud computing, and IT support. Grows in group settings, able to combine different types of knowledge and promote teamwork. I am looking for a full-time or part-time job in cybersecurity, cloud computing, or IT support so I can put my technical skills and training to good use.
-<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lal628q3nsv65lzlswup13flgiawvae9md3e8ii9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lal628q3nsv65lzlswup13flgiawvae9md3e8ii9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
  
 # 💫 About Me:
