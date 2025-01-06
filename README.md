@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Bugbounty , Penetration Tester**
 
-- 📫 How to reach me **saiviswnanth064@gmail.com**
+- 📫 How to reach me **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="saiviswanath064" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saiviswanath064?trk=profile-badge">Tatavolu Sai Viswanadh</a></div>**
 
 - ⚡ Fun fact **Hack ---> Code ---> Repeat**
 
@@ -74,3 +74,4 @@
 
   ## Watch Snake eating  Github contributions
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
