@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=CEH+V13;GoolgeCloudReady;PENT+TEST;)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lal628q3nsv65lzlswup13flgiawvae9md3e8ii9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working at Offensive Security
+- 🔭 I’m currently working at Malware 
 
 - 🔥 I’m good at  **(Kali, Deshashed,Burpsuite, Nmap,CyberChef,snort,Pfsense,Ghidra)**
 
