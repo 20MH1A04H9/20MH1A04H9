@@ -12,9 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=600&lines=CEH+V13;GoolgeCloudReady;PENT+TEST;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working at Malware 
+- 🔭 I’m currently working at EDR and XDR 
 
-- 🔥 I’m good at  **(Kali, Deshashed,Burpsuite, Nmap,CyberChef,snort,Pfsense,Ghidra)**
+- 🔥 I’m good at  **(ZTNA,Splunk,Wazuh,Windows AD,Pfsense,Fortigate)**
 
 - 📝 [CYBER](https://cybermap.kaspersky.com/en/widget/dynamic/dark) [Creed](https://saiviswanadh.notion.site/Creed-14d5559fcb5a807a8cc8dd1a2c877f68?pvs=4).
 
@@ -22,8 +22,6 @@
 
 - ⚡ Fun fact **Hack ---> Code ---> Repeat**
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=m5o0n8u9t7l72ikv25v4j0mra&unique={true|1|on|yes})
 
    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@viswanadh09)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tatavolusaiviswanadh) 
