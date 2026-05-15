@@ -82,6 +82,8 @@
 `Perplexity` · `ChatGPT` · `Gemini AI` · `Firebase Studio`
 
 ---
+## 📅 GitHub calendar
+![Isometric Calendar](./metrics.plugin.isocalendar.svg)
 
 ## 🐍 Snake eating GitHub contributions
 
