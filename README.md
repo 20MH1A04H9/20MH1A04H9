@@ -87,9 +87,7 @@
 
 ## 🐍 Snake eating GitHub contributions
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![Snake animation](https://raw.githubusercontent.com/20MH1A04H9/20MH1A04H9/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
