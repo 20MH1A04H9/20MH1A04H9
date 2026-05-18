@@ -93,10 +93,8 @@
 
 ## 🤝 Support
 
-If my open-source work or resources helped you:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@viswanadh09)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tatavolusaiviswanadh)
+
 
 ---
 
