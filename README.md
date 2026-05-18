@@ -44,15 +44,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Viswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=20MH1A04H9&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20MH1A04H9&layout=compact&theme=github_dark&hide_border=true&title_color=00FF00)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=20MH1A04H9&theme=github-dark-blue&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+
+</div>
+
+---
+
 ## 🎓 Certifications
 
 | Badge | Certification |
 |---|---|
-| 🔴 | Certified Ethical Hacker (CEH V13) |
-| ☁️ | AWS Certified Cloud Practitioner |
-| 🔵 | Microsoft Azure Fundamentals |
-| 🐧 | Red Hat System Administration (RH124) |
-| 🔐 | CISCO Cybersecurity Essentials |
+| ![CEH](https://img.shields.io/badge/CEH_V13-Certified_Ethical_Hacker-red?style=flat&logo=ec-council&logoColor=white) | Certified Ethical Hacker (CEH V13) |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) | AWS Certified Cloud Practitioner |
+| ![Azure](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white) | Microsoft Azure Fundamentals |
+| ![RHCSA](https://img.shields.io/badge/Red_Hat-RH124_System_Admin-EE0000?style=flat&logo=redhat&logoColor=white) | Red Hat System Administration (RH124) |
+| ![Cisco](https://img.shields.io/badge/CISCO-Cybersecurity_Essentials-1BA0D7?style=flat&logo=cisco&logoColor=white) | CISCO Cybersecurity Essentials |
 
 *Internship Certificates: Cyber & Forensics Security Solutions · Prodigy InfoTech · EduSkills Foundation (Cloud)*
 
@@ -61,28 +75,74 @@
 ## 🛠️ Tech Arsenal
 
 ### 🔴 SIEM & Detection Engineering
-`Wazuh` · `ELK Stack 9.x` · `Graylog` · `Fleet Server` · `Elastic Agent` · `Sysmon` · `Osquery` · `Winlogbeat` · `OpenTelemetry Collector`
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3C8DBC?style=flat&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/ELK_Stack_9.x-005571?style=flat&logo=elastic&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat&logo=graylog&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+
+
 
 ### 🟠 SOAR & Threat Intelligence
-`Shuffle SOAR` · `SOCFortress CoPilot` · `TheHive` · `AlienVault OTX` · `VirusTotal` · `Domain Stats` · `Velociraptor`
+
+![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-FF6B00?style=flat&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFBE00?style=flat&logoColor=black)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
+![OTX](https://img.shields.io/badge/AlienVault_OTX-EF3B2D?style=flat&logoColor=white)
+
 
 ### 🟡 Observability Stack
-`Grafana` · `Prometheus` · `Loki` · `Grafana Alloy` · `Grafana Tempo` · `OpenTelemetry` · `InfluxDB v2.8` · `Blackbox Exporter` · `Tetragon eBPF`
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+
 
 ### 🟢 VAPT & Offensive Security
-`Kali Linux` · `Parrot OS` · `Nmap` · `Metasploit` · `Burp Suite` · `Wireshark` · `BloodHound`
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logoColor=white)
+
 
 ### 🔵 Cloud Security
-`ScoutSuite` · `Prowler` · `Azure NSG` · `AWS IAM` · `Azure Sentinel` · `AWS Security Hub` · `GCP Security Command Center`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Prowler](https://img.shields.io/badge/Prowler-FF6600?style=flat&logoColor=white)
+![ScoutSuite](https://img.shields.io/badge/ScoutSuite-0D1117?style=flat&logoColor=white)
+
 
 ### 🟣 Infrastructure & DevOps
-`Docker` · `Docker Compose` · `Portainer` · `HAProxy` · `Nginx` · `Azure VMs` · `Ubuntu 24.04` · `Windows Server 2022` · `PowerShell` · `Bash` · `Python`
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
 
 ### 🤖 AI & Productivity Tools
-`Perplexity` · `ChatGPT` · `Gemini AI` · `Firebase Studio`
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Studio-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 ---
-## 📅 GitHub calendar
+
+## 📅 GitHub Calendar
+
 ![Isometric Calendar](./metrics.plugin.isocalendar.svg)
 
 ## 🐍 Snake eating GitHub contributions
@@ -91,15 +151,18 @@
 
 ---
 
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=20MH1A04H9&theme=github-compact&hide_border=true&color=00FF00&line=00FF00&point=FFFFFF)
+
+---
+
 ## 🤝 Support
-
-
-
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viswa&label=Profile+Views&color=00FF00&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=20MH1A04H9&label=Profile+Views&color=00FF00&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>"The quieter you become, the more you are able to hear." — Kali Linux</i></p>
