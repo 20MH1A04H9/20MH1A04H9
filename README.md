@@ -48,9 +48,7 @@
 
 <div align="center">
 
-![Viswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=20MH1A04H9&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20MH1A04H9&layout=compact&theme=github_dark&hide_border=true&title_color=00FF00)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=20MH1A04H9&theme=github-dark-blue&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
