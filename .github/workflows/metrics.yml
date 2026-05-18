@@ -5,28 +5,102 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Isocalendar
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+
+          # GitHub Username
+          user: 20MH1A04H9
+
+          # Output File
+          filename: github-metrics.svg
+
+          # Base Sections
+          base: header, activity, community, repositories, metadata
+
+          # Theme
+          config_timezone: Asia/Kolkata
+
+          ########################################
+          # Plugins
+          ########################################
+
+          # Repository traffic (views/clones)
+          plugin_traffic: yes
+          plugin_traffic_limit: 50
+
+          # Languages used
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+
+          # Stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Topics
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          # Follow-up issues/PRs
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+
+          # Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Licenses and permissions
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: WAZUH
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+
+          # Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: 20MH1A04H9/WAZUH
+
+          # Lines of code
+          plugin_lines: yes
+
+          # Discussions
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+
+          # People
+          plugin_people: yes
+          plugin_people_limit: 24
+
+          # Activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # Introduction
+          plugin_introduction: yes
+
+          # Notable contributions
+          plugin_notable: yes
+
+          # Reactions
+          plugin_reactions: yes
