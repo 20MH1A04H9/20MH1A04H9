@@ -48,9 +48,13 @@
 
 <div align="center">
 
+![Viswa's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20MH1A04H9&theme=github_dark)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20MH1A04H9&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=20MH1A04H9&theme=github_dark" width="49%" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=20MH1A04H9&theme=github-dark-blue&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=20MH1A04H9&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=20MH1A04H9&theme=github_dark&utcOffset=5.5" width="49%" />
 
 </div>
 
