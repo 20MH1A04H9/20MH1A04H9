@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   github-metrics:
@@ -13,6 +16,19 @@ jobs:
       contents: write
 
     steps:
+      # Isocalendar
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: ""
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # Wordmap / WakaTime
       - name: Wordmap Metrics
         uses: lowlighter/metrics@latest
 
@@ -20,12 +36,14 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
         with:
+          filename: metrics.plugin.wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: 20MH1A04H9
-          filename: metrics.plugin.wakatime.svg
 
           base: ""
 
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
+
+          config_timezone: Asia/Kolkata
