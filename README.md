@@ -5,14 +5,19 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/sAhvX9WxNJQAAAAC/solo-leveling.gif" />
-</div>
 
-###
+### `whoami`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goblin+One&color=00FF00&width=700&lines=CEH+V13;AWS+Cloud+Ready;SIEM+%7C+SOAR+%7C+XDR;Penetration+Tester;Hack+---->+Code+---->+Repeat)](https://git.io/typing-svg)
+```bash
+┌──(viswa㉿kali)-[~]
+└─$ cat about.txt
 
+  Name     : Viswa
+  Role     : Security Engineer | Red Teamer | Bug Hunter
+  Focus    : Offensive Security | Cloud Security | SIEM
+  Platform : Linux | AWS | Azure
+  Status   : [ ██████████ ] Always Learning
+```
 ---
 
 ## 👾 About Me
@@ -74,74 +79,81 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚔️ Offensive Security Arsenal
 
-### 🔴 SIEM & Detection Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Wazuh](https://img.shields.io/badge/Wazuh-3C8DBC?style=flat&logo=wazuh&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK_Stack_9.x-005571?style=flat&logo=elastic&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat&logo=graylog&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat&logo=windows&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+### 🔴 Red Team / Pentest
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-black?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
 
-### 🟠 SOAR & Threat Intelligence
+### 🔵 Blue Team / SIEM / Monitoring
 
-![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-FF6B00?style=flat&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-FFBE00?style=flat&logoColor=black)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
-![OTX](https://img.shields.io/badge/AlienVault_OTX-EF3B2D?style=flat&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-006DFF?style=for-the-badge&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🟡 Observability Stack
+### ☁️ Cloud Security
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
 
-### 🟢 VAPT & Offensive Security
+### 💻 Languages & Scripting
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### 🔵 Cloud Security
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Prowler](https://img.shields.io/badge/Prowler-FF6600?style=flat&logoColor=white)
-![ScoutSuite](https://img.shields.io/badge/ScoutSuite-0D1117?style=flat&logoColor=white)
-
-
-### 🟣 Infrastructure & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D4?style=flat&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
-
-### 🤖 AI & Productivity Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Studio-FFCA28?style=flat&logo=firebase&logoColor=black)
-
+</td>
+</tr>
+</table>
 
 ---
+
+## 🏆 Bug Bounty & CTF
+
+```
+Platforms   : HackerOne · Bugcrowd · Intigriti · TryHackMe · HackTheBox
+Focus Areas : Web Application · API Security · Cloud Misconfiguration
+Methodology : Recon → Enumerate → Exploit → Report → Repeat
+```
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
+
+</div>
+
+---
+
 
 ## 📅 GitHub Calendar
 
@@ -159,9 +171,6 @@
 
 ---
 
-## 🤝 Support
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=20MH1A04H9&label=Profile+Views&color=00FF00&style=flat" alt="profile views" />
