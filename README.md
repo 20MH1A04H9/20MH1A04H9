@@ -173,7 +173,7 @@ Methodology : Recon → Enumerate → Exploit → Report → Repeat
 
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=20MH1A04H9&label=Profile+Views&color=1&icon=0&pretty=false" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=20MH1A04H9&label=Profile+Views&color=00ff41&style=for-the-badge" />
 </p>
 
 <p align="center"><i>"The quieter you become, the more you are able to hear." — Kali Linux</i></p>
