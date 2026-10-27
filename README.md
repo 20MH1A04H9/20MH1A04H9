@@ -30,7 +30,6 @@
 - 📊 Monitoring **1000+ endpoints** via SOCFortress CoPilot (**14 connectors**)
 - 🏅 Holding **10+ active certifications** across security, cloud & networking
 - 💬 Ask me about **Bug Bounty · Penetration Testing · SIEM Engineering**
-- 📝 Read my [Cyber Creed](VISWA) · Watch the [Live Cyber Map](https://cybermap.kaspersky.com/en/widget/dynamic/dark)
 - ⚡ Fun fact: **Hack → Code → Repeat**
 
 ---
@@ -49,19 +48,60 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Viswa's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=20MH1A04H9&theme=github_dark)
+## 🧠 Skills
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20MH1A04H9&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=20MH1A04H9&theme=github_dark" width="49%" />
+### 🔵 Defensive Security / SOC
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=20MH1A04H9&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=20MH1A04H9&theme=github_dark&utcOffset=5.5" width="49%" />
+| Skill | What I do |
+|---|---|
+| **SOC operations** | 24/7 monitoring, alert triage, incident response, escalation and clear alert-to-report communication |
+| **SIEM engineering** | Deployment, multi-tenant design, RBAC and data isolation, log onboarding, retention and sizing |
+| **Detection engineering** | Custom rules and decoders mapped to MITRE ATT&CK, detection tuning and false-positive reduction |
+| **Threat detection use cases** | Persistence, lateral movement, credential abuse, living-off-the-land activity, suspicious PowerShell, USB and shadow IT |
+| **Endpoint security** | Windows and Linux endpoint baselines, telemetry tuning, file integrity monitoring, active response |
+| **Active Directory security** | Audit policy, hardening, GPO-based logging and rollout, CIS gap remediation |
+| **Compliance and configuration assessment** | Custom policy checks for misconfigurations and unauthorized or end-of-life software |
+| **Network detection** | Traffic visibility design, IDS alerting, threat intelligence enrichment |
+| **Threat intelligence and attack surface** | IOC enrichment, external attack surface monitoring |
+| **Security observability** | SOC dashboards, alerting, uptime and metrics monitoring |
+| **Security data engineering** | Log pipelines from SIEM to data lake for analytics |
+| **Cloud security** | AWS and Azure log ingestion, identity and misconfiguration review |
+| **Automation and scripting** | Python, PowerShell and Bash for deployment, detection and response |
 
-</div>
+### 🔴 Penetration Testing Skills
+
+| Skill | What I do |
+|---|---|
+| **Reconnaissance and OSINT** | Passive and active recon, subdomain and asset discovery, technology fingerprinting |
+| **Network penetration testing** | Host discovery, port and service enumeration, vulnerability validation, firewall and filtering analysis |
+| **Web application testing** | OWASP Top 10: injection, broken authentication and access control, XSS, CSRF, SSRF, file upload, insecure deserialization, security misconfiguration |
+| **API security testing** | Authorization flaws (BOLA/IDOR), mass assignment, rate limiting, token and session weaknesses |
+| **Active Directory attacks** | Enumeration, Kerberos and NTLM abuse, credential attacks, privilege escalation and lateral movement paths |
+| **Privilege escalation** | Linux and Windows misconfigurations, weak permissions, credential exposure |
+| **Cloud misconfiguration review** | Storage exposure, over-permissive IAM, exposed services and secrets |
+| **Exploitation and post-exploitation** | Controlled exploitation, pivoting, evidence collection within scope |
+| **Vulnerability assessment** | Scanning, manual validation, risk rating and prioritization |
+| **Reporting and remediation** | Clear findings with evidence, impact, CVSS-based severity and fix guidance for technical and management readers |
+| **Purple teaming** | Turning attack techniques into detections and validating that alerts fire |
+
+**Methodology:** Scope → Recon → Enumerate → Exploit → Post-exploit → Report → Retest
+
+**Frameworks I work with:** MITRE ATT&CK · OWASP Top 10 · PTES · CIS Benchmarks · CVSS
+
+---
+
+## 🚀 Featured Work
+
+- **Multi-tenant SIEM / SOC:** isolated roles, users and dashboards per client
+- **Windows detection baselines:** workstation and domain controller configs with custom rules and decoders
+- **AD hardening toolkit:** audit policy, GPO automation, multi-domain agent deployment
+- **Security data pipeline:** SIEM telemetry into a data lakehouse for analytics
+- **Observability stack:** combined SOC dashboards merging alerts with infrastructure metrics
+- **LLM-assisted investigation:** AI connectors on top of the SIEM data layer
+
+Write-ups and sanitized configs: [github.com/20MH1A04H9/WAZUH](https://github.com/20MH1A04H9/WAZUH)
 
 ---
 
@@ -79,68 +119,11 @@
 
 ---
 
-## ⚔️ Offensive Security Arsenal
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 Red Team / Pentest
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-black?style=for-the-badge&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-006400?style=for-the-badge&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 Blue Team / SIEM / Monitoring
-
-![Wazuh](https://img.shields.io/badge/Wazuh-006DFF?style=for-the-badge&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Security
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Languages & Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Bug Bounty & CTF
+## 🏆 Practice & CTF
 
 ```
-Platforms   : HackerOne · Bugcrowd · Intigriti · TryHackMe · HackTheBox
-Focus Areas : Web Application · API Security · Cloud Misconfiguration
+Platforms   : TryHackMe · HackTheBox · HTB Academy
+Focus Areas : Web Application · API Security · Network Enumeration · Active Directory
 Methodology : Recon → Enumerate → Exploit → Report → Repeat
 ```
 
@@ -148,12 +131,19 @@ Methodology : Recon → Enumerate → Exploit → Report → Repeat
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saiviswanath064)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019f16dd-7306-72c0-963b-6510b83d2a54)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 
 </div>
 
 ---
 
+## ✍️ Writing & Portfolio
+
+- 🌐 Portfolio: [saiviswanath064.github.io](https://saiviswanath064.github.io)
+- 📝 Blog: Medium, weekly posts on SOC operations, AD hardening and detection engineering
+- 💼 LinkedIn: www.linkedin.com/in/saiviswanath064/
+
+
+---
 
 ## 📅 GitHub Calendar
 
@@ -162,12 +152,6 @@ Methodology : Recon → Enumerate → Exploit → Report → Repeat
 ## 🐍 Snake eating GitHub contributions
 
 ![Snake animation](https://raw.githubusercontent.com/20MH1A04H9/20MH1A04H9/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=20MH1A04H9&theme=github-compact&hide_border=true&color=00FF00&line=00FF00&point=FFFFFF)
 
 ---
 
